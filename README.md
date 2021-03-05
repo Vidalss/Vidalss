@@ -29,12 +29,16 @@
 
 
 <img align="left" alt="Javascript" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
+
+
+<img align="left" alt="Java" width="28px" src="https://jesgargardon.com/wp-content/uploads/Java-icon-e1607292834495.png" />
 <br>
 
 
+<br>
 ### GitHub Stats
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidalsito&show_icons=true&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidalsito&show_icons=true&theme=synthwave)
 
 
 
