@@ -34,8 +34,7 @@
 
 ### GitHub Stats
 
- <img align="left" alt="Stats Vidalsito"src="https://github-readme-stats-plum-one.vercel.app
-/apiVidalsito=anuraghazra&show_icons=true&theme=radical)" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidalsito&show_icons=true&theme=tokyonight)
 
 
 
