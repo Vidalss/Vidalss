@@ -6,16 +6,14 @@
 - aasdasd
 - asdasasd
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/qy8stdgunwo3y2ho7s67evu8r)
 
 ### Connect with me:
 <img align="left" alt="Instagram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png"/>[Instagram]
 
-<img align="center" alt="Github" width="28px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />[Website]
+<img align="left" alt="Github" width="28px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />[Website]
 
-<img align="right" alt="YouTube" width="28px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580651-yumminkysocialmedia28_83061.png" />[YouTube] 
+<img align="left" alt="YouTube" width="28px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580651-yumminkysocialmedia28_83061.png" />[YouTube] 
 
 <br>
 
@@ -35,7 +33,9 @@
 <br>
 
 
+### Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/qy8stdgunwo3y2ho7s67evu8r)
 
 [Instagram]: https://www.instagram.com/alejandrovipe/
 [Website]: https://vidalsito.github.io/ProjectVidal/
