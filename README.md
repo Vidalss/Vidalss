@@ -1,10 +1,9 @@
 ### Hi, my name is Alejandro Vidal. 
 
 - ✧ Developer Learner.
-- asdasd
-- asdasdas
-- aasdasd
-- asdasasd
+- Country - México
+- My Discord - Vidals#4097
+- Learning new languages
 
 
 
@@ -33,9 +32,14 @@
 <br>
 
 
-### Spotify Playing 🎧
+### GitHub Stats
 
-[<img src="https://now-playing-novatoremm-five.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/qy8stdgunwo3y2ho7s67evu8r?si=K2u28m4CT5qK5ozwv6rjmA&nd)
+ <img align="left" alt="Stats Vidalsito"src="https://github-readme-stats-plum-one.vercel.app
+/apiVidalsito=anuraghazra&show_icons=true&theme=radical)" />
+
+
+
+
 
 [Instagram]: https://www.instagram.com/alejandrovipe/
 [Website]: https://vidalsito.github.io/ProjectVidal/
