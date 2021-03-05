@@ -1,6 +1,6 @@
-### Hi, my nanme is Alejandro Vidal. 
+### Hi, my name is Alejandro Vidal. 
 
-- ✧ sasd
+- ✧ Developer Learner.
 - asdasd
 - asdasdas
 - aasdasd
