@@ -35,7 +35,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/qy8stdgunwo3y2ho7s67evu8r)
+[![Spotify](https://novatoremm-five.vercel.app
+/api/spotify)](https://open.spotify.com/user/qy8stdgunwo3y2ho7s67evu8r?si=K2u28m4CT5qK5ozwv6rjmA)
 
 [Instagram]: https://www.instagram.com/alejandrovipe/
 [Website]: https://vidalsito.github.io/ProjectVidal/
