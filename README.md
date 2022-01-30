@@ -39,7 +39,7 @@
 
 ### GitHub Stats
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidalsito&show_icons=true&theme=synthwave)
+ ![Anurag's GitHub stats](https://github-readme-stats-orpin-alpha.vercel.app/api?username=Vidalss&show_icons=true&theme=synthwave)
 
 
 
