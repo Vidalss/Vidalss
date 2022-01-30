@@ -1,8 +1,8 @@
 ### Hi, my name is Alejandro Vidal. 
 
-- ✧ Developer Learner.
+- Developer Learner.
 - Country - México
-- My Discord - Vidals#4097
+- My Discord - Vidals#0381
 - Learning new languages
 
 
